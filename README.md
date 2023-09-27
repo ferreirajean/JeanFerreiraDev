@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu perfil JeanFerreiradev
+## Bem vindo(a) ao meu perfil JeanFerreiraDev
 <div>
    <a href="https://github.com/ferreirajean/JeanFerreiradev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanFerreiradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
