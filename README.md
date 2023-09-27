@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu perfil ferreirajeandev
 <div>
-   <a href="https://github.com/ferreirajean/ferreirajeandev/tree/main">
+   <a href="https://github.com/ferreirajean/ferreirajeandev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreira jeandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreira jeandev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
